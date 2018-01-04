@@ -1,0 +1,1 @@
+Miscellanious Go utility functions.
